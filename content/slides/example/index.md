@@ -12,7 +12,8 @@ slides:
   #   Light style: github-light. Dark style: dracula (default).
   highlight_style: dracula
   reveal_options:
-    shuffle: true
+    shuffle: false
+    controls: false
     loop: true
     slide_number: h/v
     center: false
