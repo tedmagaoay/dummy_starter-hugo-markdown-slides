@@ -17,6 +17,7 @@ slides:
     loop: true
     slide_number: h/v
     center: false
+    progress: false
 ---
 
 # Create slides in Markdown with Wowchemy
