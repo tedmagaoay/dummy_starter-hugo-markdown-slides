@@ -11,6 +11,9 @@ slides:
   # Choose a code highlighting style (see Hugo docs on Chroma)
   #   Light style: github-light. Dark style: dracula (default).
   highlight_style: dracula
+  reveal_options:
+    shuffle: true
+    loop: true
 ---
 
 # Create slides in Markdown with Wowchemy
