@@ -14,6 +14,8 @@ slides:
   reveal_options:
     shuffle: true
     loop: true
+    slide_number: h/v
+    center: false
 ---
 
 # Create slides in Markdown with Wowchemy
